@@ -1,0 +1,73 @@
+{
+  "data": [{
+      "id": 1,
+      "urlImage": "public/logo-tech-stack/figma.svg",
+      "alt": "Logo Figma"
+    },
+    {
+      "id": 2,
+      "urlImage": "public/logo-tech-stack/photoshop.svg",
+      "alt": "Logo Photoshop"
+    },
+    {
+      "id": 3,
+      "urlImage": "public/logo-tech-stack/illustrator.svg",
+      "alt": "Logo Illustrator"
+    },
+    {
+      "id": 4,
+      "urlImage": "public/logo-tech-stack/xd.svg",
+      "alt": "Logo Xd"
+    },
+    {
+      "id": 5,
+      "urlImage": "public/logo-tech-stack/html.svg",
+      "alt": "Logo HTML"
+    },
+    {
+      "id": 6,
+      "urlImage": "public/logo-tech-stack/css.svg",
+      "alt": "Logo CSS"
+    },
+    {
+      "id": 7,
+      "urlImage": "public/logo-tech-stack/js.svg",
+      "alt": "Logo Javascript"
+    },
+    {
+      "id": 8,
+      "urlImage": "public/logo-tech-stack/nodejs.svg",
+      "alt": "Logo Node JS"
+    },
+    {
+      "id": 9,
+      "urlImage": "public/logo-tech-stack/webpack.svg",
+      "alt": "Logo Webpack"
+    },
+    {
+      "id": 10,
+      "urlImage": "public/logo-tech-stack/tailwind.svg",
+      "alt": "Logo Tailwind CSS"
+    },
+    {
+      "id": 11,
+      "urlImage": "public/logo-tech-stack/webflow.svg",
+      "alt": "Logo Webflow"
+    },
+    {
+      "id": 12,
+      "urlImage": "public/logo-tech-stack/elementor.svg",
+      "alt": "Logo Elementor"
+    },
+    {
+      "id": 13,
+      "urlImage": "public/logo-tech-stack/vscode.svg",
+      "alt": "Logo Visual Studio Code"
+    },
+    {
+      "id": 14,
+      "urlImage": "public/logo-tech-stack/github.svg",
+      "alt": "Logo Github"
+    }
+  ]
+}

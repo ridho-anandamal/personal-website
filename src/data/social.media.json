@@ -1,0 +1,31 @@
+{
+  "data": [{
+      "name": "LinkedIn",
+      "id": 1,
+      "urlImage": "../public/icon-social-media/linkedin.svg",
+      "alt": "Icon LinkedIn",
+      "link": "https://www.linkedin.com/in/ridho-anandamal"
+    },
+    {
+      "name": "Twitter",
+      "id": 2,
+      "urlImage": "../public/icon-social-media/twitter.svg",
+      "alt": "Icon Twitter",
+      "link": "https://twitter.com/Ridho_Anandamal"
+    },
+    {
+      "name": "Instagram",
+      "id": 3,
+      "urlImage": "../public/icon-social-media/instagram.svg",
+      "alt": "Icon Instagram",
+      "link": "https://www.instagram.com/ridhoanandamal"
+    },
+    {
+      "name": "Github",
+      "id": 3,
+      "urlImage": "../public/icon-social-media/github.svg",
+      "alt": "Icon Github",
+      "link": "https://github.com/ridho-anandamal"
+    }
+  ]
+}
