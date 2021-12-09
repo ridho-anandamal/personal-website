@@ -1,0 +1,209 @@
+h1,
+h2,
+h3,
+h4,
+p.sub-header,
+p.body-header {
+    color: #1a1a1a;
+}
+
+p.body,
+p.body-bold {
+    color: #5C5C5C;
+}
+
+h1 {
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 150%;
+}
+
+h2 {
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 120%;
+}
+
+h3 {
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 140%;
+}
+
+h4 {
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 140%;
+}
+
+p.sub-header {
+    font-family: Plus Jakarta Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+p.body-header {
+    font-family: Plus Jakarta Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 180%;
+}
+
+.body {
+    font-family: Plus Jakarta Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 180%;
+}
+
+.body-bold {
+    font-family: Plus Jakarta Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 180%;
+}
+
+p.logo-text {
+    font-family: Plus Jakarta Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+a.link {
+    font-family: Plus Jakarta Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+p.quote {
+    font-family: Plus Jakarta Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 180%;
+}
+
+
+/* Extra Large View */
+
+@media only screen and (min-width: 1300px) {}
+
+
+/* Tablet View */
+
+@media only screen and (max-width: 900px) {
+    h1 {
+        font-family: Bitter;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 150%;
+    }
+    a.link {
+        font-family: Plus Jakarta Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 150%;
+    }
+    p.body-header {
+        font-family: Plus Jakarta Sans;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 180%;
+    }
+    .body {
+        font-family: Plus Jakarta Sans;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 180%;
+    }
+    .body-bold {
+        font-family: Plus Jakarta Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 180%;
+    }
+}
+
+
+/* Mobile View */
+
+@media only screen and (max-width: 500px) {
+    h1 {
+        font-family: Bitter;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 130%;
+    }
+    h2 {
+        font-family: Bitter;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 120%;
+    }
+    h3 {
+        font-family: Bitter;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 140%;
+    }
+    h4 {
+        font-family: Bitter;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 140%;
+    }
+    p.sub-header {
+        font-family: Plus Jakarta Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 150%;
+    }
+    p.body-header {
+        font-family: Plus Jakarta Sans;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 180%;
+    }
+    .body {
+        font-family: Plus Jakarta Sans;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 180%;
+    }
+    .body-bold {
+        font-family: Plus Jakarta Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 180%;
+    }
+}

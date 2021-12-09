@@ -1,0 +1,17 @@
+.hidden {
+    display: none !important;
+}
+
+.button-active {
+    background-color: white !important;
+    color: #09203F !important;
+}
+
+.scrolling {
+    background-color: white;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-transparent {
+    background-color: transparent;
+}

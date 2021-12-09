@@ -1,0 +1,21 @@
+{
+  "data": [{
+      "id": 1,
+      "quote": "Ridho worked with me to clean up a Figma prototype. He has a great eye for design, followed exactly what I communicated, was responsive. I was very happy with Ridho's work.",
+      "name": "Nick A.",
+      "company": "Car Selling Startup Founder, Hongkong"
+    },
+    {
+      "id": 2,
+      "quote": "Excellent work! He is a skilled designer and video editor and did a fantastic job editing our projects videos and Figma designs.",
+      "name": "Sam Jean-Marc",
+      "company": "Bold Web Design, Australia"
+    },
+    {
+      "id": 3,
+      "quote": "Great communication and high quality work. We gave him a very big project, and he handled it with no issues.",
+      "name": "Pierre",
+      "company": "Reinin, Singapore"
+    }
+  ]
+}
